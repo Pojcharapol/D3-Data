@@ -1,0 +1,13 @@
+Subjects,GPA,Grade,GPA * Grade
+Electric Circuit Theory,3,2,6
+Electric Circuit Lab,1,3.5,3.5
+Algorithms and Data Structure,3,2,6
+Work Ethics,1,4,4
+Engineering Mathematics,3,1.5,4.5
+Physics 2,3,2.5,7.5
+Physics Laboratory 2,1,4,4
+English 2,3,4,12
+Basketball,1,3,3
+,,,
+SUM,19,,50.5
+GPAx,2.65789473684211,,

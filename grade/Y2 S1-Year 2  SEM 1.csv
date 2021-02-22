@@ -1,0 +1,9 @@
+Subjects,GPA,Grade,GPA * Grade
+Introduction to Signals,3,1.5,4.5
+Logic Design & Digital Systems,3,2,6
+Digital System Design Laboratory,1,2,2
+Software Development Practice,3,3,9
+Physics in everyday life,3,4,12
+,,,
+SUM,13,,33.5
+GPAx,2.57692307692308,,
